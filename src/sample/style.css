@@ -1,0 +1,20 @@
+.parent{
+    -fx-background-color: #2296f3;
+}.parentDelete{
+    -fx-background-color: #f4282d;
+}
+.text-fields{
+    -fx-background-color: #505050;
+}
+.vbox{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 5px;
+}.txt-color{
+    -fx-text-fill: #505050;
+ }
+ .parentColor{
+    -fx-background-color: #505050;
+ }
+ .pane{
+     -fx-background-radius: 50px;
+ }

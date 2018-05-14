@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Apteka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Apteka_jar</output-path>
+    <root id="archive" name="Apteka.jar">
+      <element id="module-output" name="Apteka" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../fillboock/lib/jfoenix-1.4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../fillboock/lib/controlsfx-8.40.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
